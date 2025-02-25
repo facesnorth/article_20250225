@@ -1,5 +1,4 @@
-# Introduction
+# Methods 
 ## Experiment A
-## Experiment C
-This is what we did for experiment C
-## Experiment F
+## Ohter experiments
+Description of experiments B, C and F
